@@ -1,0 +1,2 @@
+# Show Trackr
+A MEAN stack application (AngularJS) created via a [tutorial](http://sahatyalkabov.com/create-a-tv-show-tracker-using-angularjs-nodejs-and-mongodb/) by Sahat Yalkabov. Users can sign up and add TV shows, which will display information about those series.
